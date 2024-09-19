@@ -1,0 +1,29 @@
+{
+	"name": "plasticstudio/member-activity",
+    "type": "silverstripe-vendormodule",
+	"description": "SilverStripe add on to track member activity",
+	"homepage": "https://psdigital.co.nz",
+	"keywords": ["silverstripe","member"],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Emma Baker",
+			"homepage": "https://psdigital.co.nz",
+			"email": "emma@psdigital.co.nz"
+		}
+	],
+	"support": {
+		"issues": "http://github.com/plasticstudio/dashboard/issues"
+	},
+    "extra": {
+        "expose": [
+            "client"
+        ]
+    },
+	"require": {
+		"silverstripe/cms": "^4 || ^5",
+		"silverstripe/framework": "^4 || ^5",
+        "silverstripe/vendor-plugin": "^1 || ^2"
+	},
+	"minimum-stability": "dev"
+}

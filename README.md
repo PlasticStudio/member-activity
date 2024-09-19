@@ -1,4 +1,5 @@
-# Dashboard
+# Member Activity
 
-CMS dashboard, uses plastyk/silverstripe-dashboard and extends with custom panels.
-
+SilverStripe add on to track member activity
+For now - trackes date last visited and number of visits
+Future - could add others
