@@ -1,6 +1,6 @@
 <?php
 
-namespace Skeletor\Extensions;
+namespace PlasticStudio\Extensions;
 
 use SilverStripe\ORM\DB;
 use SilverStripe\ORM\DataObject;
