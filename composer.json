@@ -15,11 +15,6 @@
 	"support": {
 		"issues": "http://github.com/plasticstudio/dashboard/issues"
 	},
-    "extra": {
-        "expose": [
-            "client"
-        ]
-    },
 	"require": {
 		"silverstripe/cms": "^4 || ^5",
 		"silverstripe/framework": "^4 || ^5",
