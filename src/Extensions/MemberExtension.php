@@ -6,11 +6,11 @@ use SilverStripe\ORM\DB;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\Security\Member;
-use SilverStripe\ORM\DataExtension;
+use SilverStripe\Core\Extension;
 use SilverStripe\Security\Security;
 use SilverStripe\Forms\ReadonlyField;
 
-class MemberExtension extends DataExtension
+class MemberExtension extends Extension
 {
     // https://docs.silverstripe.org/en/5/developer_guides/extending/how_tos/track_member_logins/
 
